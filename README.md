@@ -11,14 +11,14 @@ Used Plugins:
 Development Team
 
 Programmers:
-- Samuel Gomes (https://samgomes.github.io/)
-- Paulo do Ó (https://hamyah.itch.io/)
+- [Samuel Gomes](https://github.com/SamGomes) (https://samgomes.github.io/)
+- [Paulo do Ó](https://github.com/hamyah) (https://hamyah.itch.io/)
 
 2D & 3D Artist:
-- Anna Unterholzner
+- [Anna Unterholzner](https://github.com/annaunterholzner)
 
 Audio Designer and Artist:
-- Samuel Gomes (https://samgomes.github.io/)
+- [Samuel Gomes](https://www.youtube.com/channel/UCM7NTKaMKr46aCFiSLPKpWA) (https://samgomes.github.io/)
 
 - - - - - - -
 
