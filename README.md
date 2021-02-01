@@ -2,6 +2,11 @@
 
 An online multiplayer game developed during the online Global Game Jam 2021, using Unity 3D and the Mirror plugin. Either play as the guard and protect all the pixel paintings during a night shift in a gallery, or play as the robber and try to take all the gallery paintings. The paintings were all hand-made using the Pixel Art technique. All audio was also developed in-house.
 
+Used Plugins:
+- [Mirror](https://mirror-networking.com/)
+- [Old Unity Post-Processing Stack](https://docs.unity3d.com/2018.3/Documentation/Manual/PostProcessing-Stack.html)
+- [ParrelSync](https://github.com/VeriorPies/ParrelSync)
+- [TextMesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)
 
 Development Team
 
